@@ -1,0 +1,16 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.mainCantainer{
+    background: url(./jungle-background-forest-nature-scene-futuristic-generative-ai.jpg);
+     background-position: center;
+      background-size: cover;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   
+}
+
+
